@@ -1,0 +1,15 @@
+C:\University\OOP\lab 2\Лабораторна робота 2\bin\Debug\net6.0\Лабораторна робота 2.exe
+C:\University\OOP\lab 2\Лабораторна робота 2\bin\Debug\net6.0\Лабораторна робота 2.deps.json
+C:\University\OOP\lab 2\Лабораторна робота 2\bin\Debug\net6.0\Лабораторна робота 2.runtimeconfig.json
+C:\University\OOP\lab 2\Лабораторна робота 2\bin\Debug\net6.0\Лабораторна робота 2.dll
+C:\University\OOP\lab 2\Лабораторна робота 2\bin\Debug\net6.0\Лабораторна робота 2.pdb
+C:\University\OOP\lab 2\Лабораторна робота 2\obj\Debug\net6.0\Лабораторна робота 2.csproj.AssemblyReference.cache
+C:\University\OOP\lab 2\Лабораторна робота 2\obj\Debug\net6.0\Лабораторна робота 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\OOP\lab 2\Лабораторна робота 2\obj\Debug\net6.0\Лабораторна робота 2.AssemblyInfoInputs.cache
+C:\University\OOP\lab 2\Лабораторна робота 2\obj\Debug\net6.0\Лабораторна робота 2.AssemblyInfo.cs
+C:\University\OOP\lab 2\Лабораторна робота 2\obj\Debug\net6.0\Лабораторна робота 2.csproj.CoreCompileInputs.cache
+C:\University\OOP\lab 2\Лабораторна робота 2\obj\Debug\net6.0\Лабораторна робота 2.dll
+C:\University\OOP\lab 2\Лабораторна робота 2\obj\Debug\net6.0\refint\Лабораторна робота 2.dll
+C:\University\OOP\lab 2\Лабораторна робота 2\obj\Debug\net6.0\Лабораторна робота 2.pdb
+C:\University\OOP\lab 2\Лабораторна робота 2\obj\Debug\net6.0\Лабораторна робота 2.genruntimeconfig.cache
+C:\University\OOP\lab 2\Лабораторна робота 2\obj\Debug\net6.0\ref\Лабораторна робота 2.dll
